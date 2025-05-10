@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiskt1/)
 
 ### 📊 Contribuições
-![Contribuições 3D](./profile-3d-contrib/profile-3d-contrib.svg)
+![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Technology Skills 💻
 
