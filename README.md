@@ -1,12 +1,25 @@
-### Social Media 🌐
+## ✨ About Me
+
+Olá! Me chamo **Guilherme Moura**, estudante na área de Análise e Desenvolvimento de Sistemas.  
+Atualmente trabalho como estagiário na área de desenvolvimento web com prática tanto em Back-end como Front-end.  
+Gosto de entender como as coisas funcionam, resolver problemas e ver meu progresso a cada dia que passa, aproveitando cada momento. Estou sempre buscando aprender algo novo e evoluir como desenvolvedor. 🚀
+
+---
+
+### 🌐 Social Media
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luistorresdemoura/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiskt1/)
 
+---
+
 ### 📊 Contribuições
+
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
-### Technology Skills 💻
+---
+
+### 💻 Technology Skills
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
