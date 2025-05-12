@@ -37,10 +37,9 @@ const guilhermeMoura = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismoura03&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismoura03&layout=compact&langs_count=7&theme=midnight-purple"/>
-
+  
   ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 ## 🏆 Projetos Destacados
