@@ -1,32 +1,72 @@
-## ✨ About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Guilherme%20Moura&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
 
-Olá! Me chamo **Guilherme Moura**, estudante na área de Análise e Desenvolvimento de Sistemas.  
-Atualmente trabalho como estagiário na área de desenvolvimento web com prática tanto em Back-end como Front-end.  
-Gosto de entender como as coisas funcionam, resolver problemas e ver meu progresso a cada dia que passa, aproveitando cada momento. Estou sempre buscando aprender algo novo e evoluir como desenvolvedor. 🚀
+# 👋 Bem-vindo ao meu GitHub!
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+de+Software;Entusiasta+de+Tecnologia;Sempre+Aprendendo;Colaborando+para+o+Futuro+Digital" alt="Typing SVG" />
+</div>
 
-### 🌐 Social Media
+## 💫 Sobre Mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luistorresdemoura/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiskt1/)
+```javascript
+const guilhermeMoura = {
+  localização: "Brasil",
+  formação: "Análise e Desenvolvimento de Sistemas",
+  atuação: "Estagiário em Desenvolvimento Web",
+  habilidades: ["Front-end", "Back-end", "Resolução de problemas"],
+  objetivo: "Evoluir constantemente como desenvolvedor e criar soluções inovadoras 🚀"
+}
+```
 
----
+## 🚀 Tecnologias & Ferramentas
 
-### 📊 Contribuições
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/vuejs-6A0DAD?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nuxt-6a0dad?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/tailwindcss-6a0dad?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6a0dad?style=for-the-badge&logo=postgresql&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/GraphQl-6A0DAD?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+</div>
 
-![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+## 📊 Estatísticas do GitHub
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismoura03&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismoura03&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-### 💻 Technology Skills
+  ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img align="center" alt="quasar" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="graphql" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+## 🏆 Projetos Destacados
+
+<div align="center">
+  <a href="https://github.com/luismoura03/conexao-literaria-front">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luismoura03&repo=conexao-literaria-front&theme=midnight-purple" />
+  </a>
+</div>
+
+## 🌐 Perfil social
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luistorresdemoura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="luistorresdemoura@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/guiskt1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white)" alt="Twitter"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <p>Obrigado pela visita! 👋</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 </div>
