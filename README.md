@@ -6,13 +6,6 @@ Gosto de entender como as coisas funcionam, resolver problemas e ver meu progres
 
 ---
 
-### 🌐 Social Media
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luistorresdemoura/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiskt1/)
-
----
-
 ### 📊 Contribuições
 
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
