@@ -5,7 +5,7 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+de+Software;Entusiasta+de+Tecnologia;Sempre+Aprendendo;Colaborando+para+o+Futuro+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+full-stack;Entusiasta+de+Tecnologia;Sempre+Aprendendo;Colaborando+para+o+Futuro+Digital" alt="Typing SVG" />
 </div>
 
 ## 💫 Sobre Mim
