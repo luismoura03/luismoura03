@@ -38,7 +38,7 @@ const guilhermeMoura = {
 
 <div align="center">
   
-  ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+  // ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
