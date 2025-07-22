@@ -36,12 +36,6 @@ const guilhermeMoura = {
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
- ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
 ## 🏆 Projetos Destacados
 
 <div align="center">
