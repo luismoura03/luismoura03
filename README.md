@@ -14,7 +14,7 @@
 const guilhermeMoura = {
   localização: "Brasil",
   formação: "Análise e Desenvolvimento de Sistemas",
-  atuação: "Estagiário em Desenvolvimento Web",
+  atuação: "Programador Jr",
   habilidades: ["Front-end", "Back-end"],
   objetivo: "Evoluir constantemente como desenvolvedor e criar soluções inovadoras 🚀"
 }
